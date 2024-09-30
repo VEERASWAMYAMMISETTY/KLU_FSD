@@ -1,0 +1,11 @@
+.c1{ font-size: 2rem;}
+.c2{ font-size: 20rem;}
+.c3{ font-size: 3em;}
+.percent_class{ width: 400px;
+                height: 200px;
+                 border: 1px solid red;}
+
+.c4{ width: 100%;
+   background-color: greenyellow;}
+   .c5{ width: 100vw;
+        background-color: aqua;}
